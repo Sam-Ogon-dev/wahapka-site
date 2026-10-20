@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/wahapka-site/sw.js', { scope: '/wahapka-site/' })})}
