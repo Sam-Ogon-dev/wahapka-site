@@ -1,0 +1,41 @@
+var e=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 576" font-family="inherit">
+<rect x="24.0" y="24.0" width="612.0" height="527.6" fill="var(--dg-bg, #f8fafc)"/>
+<rect x="24.0" y="24.0" width="306.0" height="527.6" fill="var(--dg-enemy, #dc2626)" fill-opacity="0.10"/>
+<rect x="330.0" y="24.0" width="306.0" height="527.6" fill="var(--dg-friendly, #2563eb)" fill-opacity="0.10"/>
+<rect x="24.0" y="24.0" width="94.9" height="527.6" fill="var(--dg-enemy, #dc2626)" fill-opacity="0.28"/>
+<rect x="541.1" y="24.0" width="94.9" height="527.6" fill="var(--dg-friendly, #2563eb)" fill-opacity="0.28"/>
+<path d="M118.9,24.0V551.6M203.3,24.0V551.6M287.8,24.0V551.6M372.2,24.0V551.6M456.7,24.0V551.6M541.1,24.0V551.6M24.0,118.9H636.0M24.0,203.3H636.0M24.0,287.8H636.0M24.0,372.2H636.0M24.0,456.7H636.0" stroke="var(--dg-muted, #64748b)" stroke-opacity="0.25" stroke-width="0.8" fill="none"/>
+<path d="M24.0,24.0h24.4v24.4h-24.4ZM24.0,527.2h24.4v24.4h-24.4ZM106.7,24.0h24.4v24.4h-24.4ZM106.7,527.2h24.4v24.4h-24.4ZM191.1,24.0h24.4v24.4h-24.4ZM191.1,527.2h24.4v24.4h-24.4ZM275.6,24.0h24.4v24.4h-24.4ZM275.6,527.2h24.4v24.4h-24.4ZM360.0,24.0h24.4v24.4h-24.4ZM360.0,527.2h24.4v24.4h-24.4ZM444.5,24.0h24.4v24.4h-24.4ZM444.5,527.2h24.4v24.4h-24.4ZM528.9,24.0h24.4v24.4h-24.4ZM528.9,527.2h24.4v24.4h-24.4ZM611.6,24.0h24.4v24.4h-24.4ZM611.6,527.2h24.4v24.4h-24.4ZM24.0,106.7h24.4v24.4h-24.4ZM611.6,106.7h24.4v24.4h-24.4ZM24.0,191.1h24.4v24.4h-24.4ZM611.6,191.1h24.4v24.4h-24.4ZM24.0,275.6h24.4v24.4h-24.4ZM611.6,275.6h24.4v24.4h-24.4ZM24.0,360.0h24.4v24.4h-24.4ZM611.6,360.0h24.4v24.4h-24.4ZM24.0,444.5h24.4v24.4h-24.4ZM611.6,444.5h24.4v24.4h-24.4Z" fill="var(--dg-muted, #64748b)" fill-opacity="0.16"/>
+<path d="M330.0,24.0V551.6" stroke="var(--dg-accent, #f97316)" stroke-width="1.5" stroke-dasharray="6 4" fill="none"/>
+<rect x="24.0" y="24.0" width="612.0" height="527.6" fill="none" stroke="var(--dg-line, #0f172a)" stroke-width="1.2"/>
+<path d="M20.0,24.0L20.0,551.6M16.0,24.0L16.0,551.6" stroke="var(--dg-enemy, #dc2626)" stroke-width="2" fill="none"/>
+<path d="M640.0,24.0L640.0,551.6M644.0,24.0L644.0,551.6" stroke="var(--dg-friendly, #2563eb)" stroke-width="2" fill="none"/>
+<path d="M24.0,18.0L636.0,18.0" stroke="var(--dg-muted, #64748b)" stroke-width="2" stroke-dasharray="1 5" stroke-linecap="round" fill="none"/>
+<path d="M24.0,557.6L636.0,557.6" stroke="var(--dg-muted, #64748b)" stroke-width="2" stroke-dasharray="1 5" stroke-linecap="round" fill="none"/>
+<path d="M221.7,55.6L227.4,61.3L227.4,93.5L221.7,99.1L216.1,93.5L216.1,61.3ZM557.8,57.4L563.5,63.1L563.5,95.3L557.8,100.9L552.2,95.3L552.2,63.1ZM308.2,184.6L313.9,178.9L346.1,178.9L351.8,184.6L346.1,190.3L313.9,190.3ZM438.3,220.7L443.9,226.4L443.9,258.6L438.3,264.2L432.6,258.6L432.6,226.4ZM100.4,222.5L106.0,228.2L106.0,260.4L100.4,266.0L94.7,260.4L94.7,228.2ZM390.9,353.3L396.6,347.6L428.8,347.6L434.4,353.3L428.8,358.9L396.6,358.9ZM308.2,390.1L313.9,384.4L346.1,384.4L351.8,390.1L346.1,395.7L313.9,395.7ZM559.6,389.4L565.3,395.0L565.3,427.2L559.6,432.9L554.0,427.2L554.0,395.0ZM137.2,473.7L142.9,479.4L142.9,511.6L137.2,517.2L131.6,511.6L131.6,479.4ZM391.6,476.4L397.2,482.1L397.2,514.3L391.6,519.9L385.9,514.3L385.9,482.1Z" fill="var(--dg-accent, #f97316)" fill-opacity="0.85" stroke="var(--dg-line, #0f172a)" stroke-width="0.8"/>
+<path d="M118.9,203.3L203.3,203.3M118.9,203.3L118.9,287.8M118.9,287.8L118.9,372.2M118.9,372.2L203.3,372.2M118.9,372.2L118.9,456.7M118.9,456.7L118.9,539.4M203.3,36.2L203.3,118.9M203.3,118.9L203.3,203.3M203.3,203.3L287.8,203.3M203.3,372.2L287.8,372.2M287.8,203.3L372.2,203.3M287.8,372.2L372.2,372.2M372.2,203.3L456.7,203.3M372.2,372.2L456.7,372.2M372.2,372.2L372.2,456.7M372.2,456.7L372.2,539.4M456.7,203.3L541.1,203.3M456.7,203.3L456.7,287.8M456.7,287.8L456.7,372.2M456.7,372.2L541.1,372.2M541.1,36.2L541.1,118.9M541.1,118.9L541.1,203.3M541.1,372.2L541.1,456.7M541.1,456.7L541.1,539.4" stroke="var(--dg-heavy, #475569)" stroke-width="7" fill="none"/>
+<path d="M106.7,191.1h24.4v24.4h-24.4ZM106.7,275.6h24.4v24.4h-24.4ZM106.7,360.0h24.4v24.4h-24.4ZM106.7,444.5h24.4v24.4h-24.4ZM106.7,527.2h24.4v24.4h-24.4ZM191.1,24.0h24.4v24.4h-24.4ZM191.1,106.7h24.4v24.4h-24.4ZM191.1,191.1h24.4v24.4h-24.4ZM275.6,191.1h24.4v24.4h-24.4ZM275.6,360.0h24.4v24.4h-24.4ZM360.0,191.1h24.4v24.4h-24.4ZM360.0,360.0h24.4v24.4h-24.4ZM360.0,527.2h24.4v24.4h-24.4ZM444.5,191.1h24.4v24.4h-24.4ZM444.5,360.0h24.4v24.4h-24.4ZM528.9,24.0h24.4v24.4h-24.4ZM528.9,191.1h24.4v24.4h-24.4ZM528.9,360.0h24.4v24.4h-24.4ZM528.9,527.2h24.4v24.4h-24.4Z" fill="var(--dg-heavy, #475569)" stroke="var(--dg-line, #0f172a)" stroke-width="1"/>
+<circle cx="371.8" cy="118.2" r="17.4" fill="var(--dg-bg, #f8fafc)" stroke="var(--dg-friendly, #2563eb)" stroke-width="2.5"/>
+<circle cx="371.8" cy="118.2" r="3" fill="var(--dg-friendly, #2563eb)"/>
+<circle cx="287.3" cy="455.6" r="17.4" fill="var(--dg-bg, #f8fafc)" stroke="var(--dg-enemy, #dc2626)" stroke-width="2.5"/>
+<circle cx="287.3" cy="455.6" r="3" fill="var(--dg-enemy, #dc2626)"/>
+<circle cx="330.4" cy="286.9" r="17.4" fill="var(--dg-bg, #f8fafc)" stroke="var(--dg-accent, #f97316)" stroke-width="2.5"/>
+<circle cx="330.4" cy="286.9" r="3" fill="var(--dg-accent, #f97316)"/>
+<path d="M166.5,68.4h26v17h-26ZM503.5,106.1h26v17h-26ZM211.9,151.0h26v17h-26ZM443.3,174.3h26v17h-26ZM189.8,213.3h26v17h-26ZM318.8,210.6h26v17h-26ZM126.5,234.4h26v17h-26ZM465.3,273.9h26v17h-26ZM486.0,345.7h26v17h-26ZM317.9,346.6h26v17h-26ZM80.6,362.7h26v17h-26ZM188.0,377.5h26v17h-26ZM400.6,379.3h26v17h-26ZM336.8,444.8h26v17h-26ZM503.5,445.3h26v17h-26ZM83.3,488.3h26v17h-26Z" fill="var(--dg-muted, #64748b)"/>
+<text x="179.5" y="77.4" text-anchor="middle" dominant-baseline="central" font-size="11.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">B3</text>
+<text x="516.5" y="115.1" text-anchor="middle" dominant-baseline="central" font-size="11.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A4</text>
+<text x="224.9" y="160.0" text-anchor="middle" dominant-baseline="central" font-size="11.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">B1</text>
+<text x="456.3" y="183.3" text-anchor="middle" dominant-baseline="central" font-size="11.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A2</text>
+<text x="202.8" y="222.3" text-anchor="middle" dominant-baseline="central" font-size="11.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A1</text>
+<text x="331.8" y="219.6" text-anchor="middle" dominant-baseline="central" font-size="11.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">B3</text>
+<text x="139.5" y="243.4" text-anchor="middle" dominant-baseline="central" font-size="11.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">B2</text>
+<text x="478.3" y="282.9" text-anchor="middle" dominant-baseline="central" font-size="11.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A3</text>
+<text x="499.0" y="354.7" text-anchor="middle" dominant-baseline="central" font-size="11.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">B1</text>
+<text x="330.9" y="355.6" text-anchor="middle" dominant-baseline="central" font-size="11.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">B3</text>
+<text x="93.6" y="371.7" text-anchor="middle" dominant-baseline="central" font-size="11.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A2</text>
+<text x="201.0" y="386.5" text-anchor="middle" dominant-baseline="central" font-size="11.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A1</text>
+<text x="413.6" y="388.3" text-anchor="middle" dominant-baseline="central" font-size="11.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">B3</text>
+<text x="349.8" y="453.8" text-anchor="middle" dominant-baseline="central" font-size="11.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A3</text>
+<text x="516.5" y="454.3" text-anchor="middle" dominant-baseline="central" font-size="11.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A4</text>
+<text x="96.3" y="497.3" text-anchor="middle" dominant-baseline="central" font-size="11.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">B2</text>
+</svg>`;export{e as default};
