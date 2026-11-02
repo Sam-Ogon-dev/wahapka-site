@@ -1,0 +1,59 @@
+var e=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 468" font-family="inherit">
+<rect x="24" y="24" width="720" height="420" fill="var(--dg-bg, #f8fafc)"/>
+<rect x="24" y="147.4" width="122.2" height="173.2" fill="var(--dg-player-c, #8b5cf6)" fill-opacity="0.3"/>
+<rect x="448.5" y="24" width="295.5" height="65.6" fill="var(--dg-enemy, #ef4444)" fill-opacity="0.3"/>
+<rect x="448.5" y="378.4" width="295.5" height="65.6" fill="var(--dg-friendly, #3b82f6)" fill-opacity="0.3"/>
+<path d="M88.5,24V444M146.2,24V444M204,24V444M261.8,24V444M319.5,24V444M384,24V444M448.5,24V444M506.2,24V444M564,24V444M621.8,24V444M679.5,24V444M24,89.6H744M24,147.4H744M24,205.1H744M24,262.9H744M24,320.6H744M24,378.4H744" stroke="var(--dg-muted, #64748b)" stroke-opacity="0.25" stroke-width="0.8" fill="none"/>
+<path d="M24,24h16.5v16.5h-16.5ZM24,427.5h16.5v16.5h-16.5ZM80.2,24h16.5v16.5h-16.5ZM80.2,427.5h16.5v16.5h-16.5ZM138,24h16.5v16.5h-16.5ZM138,427.5h16.5v16.5h-16.5ZM195.8,24h16.5v16.5h-16.5ZM195.8,427.5h16.5v16.5h-16.5ZM253.5,24h16.5v16.5h-16.5ZM253.5,427.5h16.5v16.5h-16.5ZM311.2,24h16.5v16.5h-16.5ZM311.2,427.5h16.5v16.5h-16.5ZM375.8,24h16.5v16.5h-16.5ZM375.8,427.5h16.5v16.5h-16.5ZM440.2,24h16.5v16.5h-16.5ZM440.2,427.5h16.5v16.5h-16.5ZM498,24h16.5v16.5h-16.5ZM498,427.5h16.5v16.5h-16.5ZM555.8,24h16.5v16.5h-16.5ZM555.8,427.5h16.5v16.5h-16.5ZM613.5,24h16.5v16.5h-16.5ZM613.5,427.5h16.5v16.5h-16.5ZM671.3,24h16.5v16.5h-16.5ZM671.3,427.5h16.5v16.5h-16.5ZM727.5,24h16.5v16.5h-16.5ZM727.5,427.5h16.5v16.5h-16.5ZM24,81.4h16.5v16.5h-16.5ZM727.5,81.4h16.5v16.5h-16.5ZM24,139.1h16.5v16.5h-16.5ZM727.5,139.1h16.5v16.5h-16.5ZM24,196.9h16.5v16.5h-16.5ZM727.5,196.9h16.5v16.5h-16.5ZM24,254.6h16.5v16.5h-16.5ZM727.5,254.6h16.5v16.5h-16.5ZM24,312.4h16.5v16.5h-16.5ZM727.5,312.4h16.5v16.5h-16.5ZM24,370.1h16.5v16.5h-16.5ZM727.5,370.1h16.5v16.5h-16.5Z" fill="var(--dg-muted, #64748b)" fill-opacity="0.16"/>
+<path d="M384,24V444" stroke="var(--dg-muted, #64748b)" stroke-width="1.5"/>
+<rect x="24" y="24" width="720" height="420" fill="none" stroke="var(--dg-line, #0f172a)" stroke-width="1.5"/>
+<text x="88.5" y="234" text-anchor="middle" dominant-baseline="central" font-size="12" font-weight="600" fill="var(--dg-text, #0f172a)">Игрок C</text>
+<text x="592.9" y="56.8" text-anchor="middle" dominant-baseline="central" font-size="12" font-weight="600" fill="var(--dg-text, #0f172a)">Игрок B</text>
+<text x="592.9" y="411.2" text-anchor="middle" dominant-baseline="central" font-size="12" font-weight="600" fill="var(--dg-text, #0f172a)">Игрок A</text>
+<path d="M192.8,41.8L196.5,45.6L196.5,68.1L192.8,71.8L189,68.1L189,45.6ZM330.8,99.1L334.5,102.8L334.5,125.3L330.8,129.1L327,125.3L327,102.8ZM42,136.1L45.8,132.4L68.3,132.4L72,136.1L68.3,139.9L45.8,139.9ZM157.5,221.3L161.2,225.1L161.2,247.6L157.5,251.3L153.8,247.6L153.8,225.1ZM42,331.9L45.8,328.1L68.3,328.1L72,331.9L68.3,335.6L45.8,335.6ZM192.8,395.7L196.5,399.4L196.5,421.9L192.8,425.7L189,421.9L189,399.4ZM330.8,338.9L334.5,342.7L334.5,365.2L330.8,368.9L327,365.2L327,342.7ZM437.2,41.8L441,45.6L441,68.1L437.2,71.8L433.5,68.1L433.5,45.6ZM517.8,78.4L521.6,74.6L544.1,74.6L547.8,78.4L544.1,82.1L521.6,82.1ZM696.8,78.4L700.5,74.6L723,74.6L726.8,78.4L723,82.1L700.5,82.1ZM517.8,367.1L521.6,363.4L544.1,363.4L547.8,367.1L544.1,370.9L521.6,370.9ZM696.8,367.1L700.5,363.4L723,363.4L726.8,367.1L723,370.9L700.5,370.9ZM437.2,396.2L441,399.9L441,422.4L437.2,426.2L433.5,422.4L433.5,399.9ZM395.2,161.2L399,165L399,187.5L395.2,191.2L391.5,187.5L391.5,165ZM395.2,276.8L399,280.5L399,303L395.2,306.8L391.5,303L391.5,280.5ZM517.5,161.2L521.2,165L521.2,187.5L517.5,191.2L513.8,187.5L513.8,165ZM517.5,276.8L521.2,280.5L521.2,303L517.5,306.8L513.8,303L513.8,280.5Z" fill="var(--dg-accent, #f97316)" fill-opacity="0.85" stroke="var(--dg-line, #0f172a)" stroke-width="0.8"/>
+<path d="M204,24L204,89.6M204,89.6L204,147.4M319.5,24L319.5,147.4M204,147.4L319.5,147.4M24,147.4L146.2,147.4M146.2,147.4L146.2,205.1M146.2,205.1L146.2,320.6M24,320.6L146.2,320.6M204,320.6L204,444M319.5,320.6L319.5,444M204,320.6L319.5,320.6M448.5,24L448.5,89.6M448.5,89.6L564,89.6M564,89.6L679.5,89.6M679.5,89.6L744,89.6M679.5,89.6L679.5,205.1M679.5,262.9L679.5,378.4M448.5,378.4L564,378.4M564,378.4L679.5,378.4M679.5,378.4L744,378.4M448.5,378.4L448.5,444M384,147.4L506.2,147.4M384,320.6L506.2,320.6M384,147.4L384,205.1M384,205.1L384,262.9M384,262.9L384,320.6M506.2,147.4L506.2,205.1M506.2,205.1L506.2,262.9M506.2,262.9L506.2,320.6" stroke="var(--dg-heavy, #475569)" stroke-width="4.1" fill="none"/>
+<path d="M24,139.1h16.5v16.5h-16.5ZM24,312.4h16.5v16.5h-16.5ZM138,139.1h16.5v16.5h-16.5ZM138,196.9h16.5v16.5h-16.5ZM138,312.4h16.5v16.5h-16.5ZM195.8,24h16.5v16.5h-16.5ZM195.8,81.4h16.5v16.5h-16.5ZM195.8,139.1h16.5v16.5h-16.5ZM195.8,312.4h16.5v16.5h-16.5ZM195.8,427.5h16.5v16.5h-16.5ZM311.2,24h16.5v16.5h-16.5ZM311.2,139.1h16.5v16.5h-16.5ZM311.2,312.4h16.5v16.5h-16.5ZM311.2,427.5h16.5v16.5h-16.5ZM375.8,139.1h16.5v16.5h-16.5ZM375.8,196.9h16.5v16.5h-16.5ZM375.8,254.6h16.5v16.5h-16.5ZM375.8,312.4h16.5v16.5h-16.5ZM440.2,24h16.5v16.5h-16.5ZM440.2,81.4h16.5v16.5h-16.5ZM440.2,370.1h16.5v16.5h-16.5ZM440.2,427.5h16.5v16.5h-16.5ZM498,139.1h16.5v16.5h-16.5ZM498,196.9h16.5v16.5h-16.5ZM498,254.6h16.5v16.5h-16.5ZM498,312.4h16.5v16.5h-16.5ZM555.8,81.4h16.5v16.5h-16.5ZM555.8,370.1h16.5v16.5h-16.5ZM671.3,81.4h16.5v16.5h-16.5ZM671.3,370.1h16.5v16.5h-16.5ZM727.5,81.4h16.5v16.5h-16.5ZM727.5,370.1h16.5v16.5h-16.5Z" fill="var(--dg-heavy, #475569)" stroke="var(--dg-line, #0f172a)" stroke-width="1"/>
+<path d="M671.3,254.6h16.5v16.5h-16.5Z" fill="var(--dg-heavy, #475569)" stroke="var(--dg-line, #0f172a)" stroke-width="1"/>
+<path d="M674.3,257.6L684.8,268.1M684.8,257.6L674.3,268.1" stroke="var(--dg-bg, #f8fafc)" stroke-width="1.5"/>
+<path d="M671.3,196.9h16.5v16.5h-16.5Z" fill="var(--dg-heavy, #475569)" stroke="var(--dg-line, #0f172a)" stroke-width="1"/>
+<path d="M674.3,199.9L684.8,210.4M684.8,199.9L674.3,210.4" stroke="var(--dg-bg, #f8fafc)" stroke-width="1.5"/>
+<path d="M207,49.7h22.5v14.2h-22.5ZM178.5,111.4h22.5v14.2h-22.5ZM294,78.6h22.5v14.2h-22.5ZM250.5,152.2h22.5v14.2h-22.5ZM73.9,152.2h22.5v14.2h-22.5ZM149.2,169.1h22.5v14.2h-22.5ZM120.8,255.8h22.5v14.2h-22.5ZM73.9,301.5h22.5v14.2h-22.5ZM207,375.2h22.5v14.2h-22.5ZM294,375.2h22.5v14.2h-22.5ZM250.5,325.5h22.5v14.2h-22.5ZM451.5,49.7h22.5v14.2h-22.5ZM495,94.5h22.5v14.2h-22.5ZM610.5,94.5h22.5v14.2h-22.5ZM700.5,94.5h22.5v14.2h-22.5ZM654,140.2h22.5v14.2h-22.5ZM654,313.5h22.5v14.2h-22.5ZM495,383.2h22.5v14.2h-22.5ZM610.5,383.2h22.5v14.2h-22.5ZM700.5,383.2h22.5v14.2h-22.5ZM451.5,404.1h22.5v14.2h-22.5ZM433.9,128.2h22.5v14.2h-22.5ZM433.9,325.5h22.5v14.2h-22.5ZM358.5,169.1h22.5v14.2h-22.5ZM358.5,226.9h22.5v14.2h-22.5ZM358.5,284.6h22.5v14.2h-22.5ZM480.8,169.1h22.5v14.2h-22.5ZM480.8,226.9h22.5v14.2h-22.5ZM480.8,284.6h22.5v14.2h-22.5Z" fill="var(--dg-muted, #64748b)"/>
+<text x="218.2" y="56.8" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">B3</text>
+<text x="189.8" y="118.5" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">B1</text>
+<text x="305.2" y="85.7" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A3</text>
+<text x="261.8" y="159.4" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A2</text>
+<text x="85.1" y="159.4" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A4</text>
+<text x="160.5" y="176.2" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">B1</text>
+<text x="132" y="262.9" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A4</text>
+<text x="85.1" y="308.6" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A3</text>
+<text x="218.2" y="382.3" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A4</text>
+<text x="305.2" y="382.3" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A4</text>
+<text x="261.8" y="332.6" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A2</text>
+<text x="462.8" y="56.8" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">B3</text>
+<text x="506.2" y="101.6" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A3</text>
+<text x="621.8" y="101.6" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A2</text>
+<text x="711.8" y="101.6" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">B3</text>
+<text x="665.2" y="147.4" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A1</text>
+<text x="665.2" y="320.6" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A1</text>
+<text x="506.2" y="390.4" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A3</text>
+<text x="621.8" y="390.4" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A2</text>
+<text x="711.8" y="390.4" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">B3</text>
+<text x="462.8" y="411.2" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">B3</text>
+<text x="445.1" y="135.4" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A1</text>
+<text x="445.1" y="332.6" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">A1</text>
+<text x="369.8" y="176.2" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">B2</text>
+<text x="369.8" y="234" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">B1</text>
+<text x="369.8" y="291.8" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">B3</text>
+<text x="492" y="176.2" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">B3</text>
+<text x="492" y="234" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">B1</text>
+<text x="492" y="291.8" text-anchor="middle" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--dg-bg, #f8fafc)">B3</text>
+<circle cx="261.8" cy="89.6" r="12" fill="var(--dg-bg, #f8fafc)" stroke="var(--dg-accent, #f97316)" stroke-width="2.5"/>
+<circle cx="261.8" cy="89.6" r="3" fill="var(--dg-accent, #f97316)"/>
+<circle cx="261.8" cy="378.4" r="12" fill="var(--dg-bg, #f8fafc)" stroke="var(--dg-accent, #f97316)" stroke-width="2.5"/>
+<circle cx="261.8" cy="378.4" r="3" fill="var(--dg-accent, #f97316)"/>
+<circle cx="448.5" cy="234" r="12" fill="var(--dg-bg, #f8fafc)" stroke="var(--dg-accent, #f97316)" stroke-width="2.5"/>
+<circle cx="448.5" cy="234" r="3" fill="var(--dg-accent, #f97316)"/>
+<circle cx="592.9" cy="234" r="12" fill="var(--dg-bg, #f8fafc)" stroke="var(--dg-accent, #f97316)" stroke-width="2.5"/>
+<circle cx="592.9" cy="234" r="3" fill="var(--dg-accent, #f97316)"/>
+</svg>
+`;export{e as default};
